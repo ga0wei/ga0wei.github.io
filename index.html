@@ -8,17 +8,24 @@
 	{
 		padding:250px;
 		background-image:url("html.jpg");
+		color:#000fff;
 	}
 	</style>
 	</head>
-	
+
 	
 	<body>
 	<center>
 	<div id="id1">
 		<h1>2021考研倒计时</h1>
 		<h2>距离2021研究生入学考试还有**天</h2>
+		<span id="cg">2020/01/01 上午12:00:00</span>
+		<script>
+			<!--这个cg就是span的id，初始化Date时间并转化为字符string类型,每1000毫秒，setInterval() 就会调用函数，直到被关闭。-->
+		setInterval("cg.innerHTML=new Date().toLocaleString()",1000);
+			</script>
 	</div>
+	
 	</center>
 	</body>
 	</html>
