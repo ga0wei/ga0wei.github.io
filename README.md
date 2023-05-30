@@ -1,16 +1,9 @@
----
-title: 'HOME|GaoWei'
-date: 2018-12-12 00:00:00
-tags: [Gridea]
-published: true
-hideInList: false
-feature: 
-isTop: false
----
 
-# # [HOME](https://ga0wei.github.io/)
+# [HOME](https://ga0wei.github.io/)
 
-## ## [about](about)
+
+
+## [about](about)
 
 
 
