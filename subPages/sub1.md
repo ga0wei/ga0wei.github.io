@@ -4,9 +4,10 @@ title: '一文搞懂C和C++中struct'
 # [Home](https://ga0wei.github.io/)    |   [About](about) | [Texts](allTexts)
 #  一文搞懂C和C++中struct
 
-
+### content
 - [Home    |   About | Texts](#home-------about--texts)
 - [一文搞懂C和C++中struct](#一文搞懂c和c中struct)
+    - [content](#content)
   - [关于作者：](#关于作者)
   - [1.C中struct](#1c中struct)
   - [2.C++中struct](#2c中struct)
