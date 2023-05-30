@@ -9,7 +9,6 @@ title: 'Home'
 
 
 ### content
-- [Home    |   About | Texts](#home-------about--texts)
 - [Home](#home)
     - [content](#content)
 - [Pinned Text](#pinned-text)
