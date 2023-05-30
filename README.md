@@ -2,8 +2,10 @@
 title: 'Home'
 ---
 # [Home](https://ga0wei.github.io/)    |   [About](about)
+
 # Home
 
+- [Home    |   About](#home-------about)
 - [Home](#home)
 - [Text](#text)
   - [subpage1](#subpage1)

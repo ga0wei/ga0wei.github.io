@@ -5,6 +5,7 @@ title: '一文搞懂C和C++中struct'
 #  一文搞懂C和C++中struct
 
 
+- [Home    |   About](#home-------about)
 - [一文搞懂C和C++中struct](#一文搞懂c和c中struct)
   - [关于作者：](#关于作者)
   - [1.C中struct](#1c中struct)
