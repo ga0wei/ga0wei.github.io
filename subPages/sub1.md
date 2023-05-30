@@ -1,11 +1,7 @@
+## [Home](https://ga0wei.github.io/)    |   [About](about)
+
+# 欢迎使用 Gridea
 # 一文搞懂C和C++中struct
-
-
-
-
-
-## [Home](https://ga0wei.github.io/)
-## [about](about)
 
 
 ## 关于作者：
