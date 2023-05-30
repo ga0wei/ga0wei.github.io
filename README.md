@@ -3,28 +3,21 @@
 
 # Home
 
-
-
-
-### content
-- [Home](#home)
-    - [content](#content)
-- [Pinned Text](#pinned-text)
-  - [subpage1](#subpage1)
-  - [subpage1](#subpage1-1)
-- [Info](#info)
-  - [self Intro](#self-intro)
-
+hello,world, 练习时长还剩两年半。
 
 
 # Pinned Text
 
 ## [subpage1](subPages/sub1)
 > something about sub1
+
+
 ## [subpage1](subPages/sub2)
 > something about sub1
 
-hello,world, 练习时长还剩两年半。
+
+
+
 
 
 # Info
