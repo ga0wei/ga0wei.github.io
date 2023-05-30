@@ -1,7 +1,7 @@
 ---
 title: 'About'
 ---
-# [Home](https://ga0wei.github.io/)    |   [About](about)
+# [Home](https://ga0wei.github.io/)    |   [About](about) | [Texts](allTexts)
 
 # About
 

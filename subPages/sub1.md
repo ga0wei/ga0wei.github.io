@@ -1,11 +1,11 @@
 ---
 title: '一文搞懂C和C++中struct'
 ---
-# [Home](https://ga0wei.github.io/)    |   [About](about)
+# [Home](https://ga0wei.github.io/)    |   [About](about) | [Texts](allTexts)
 #  一文搞懂C和C++中struct
 
 
-- [Home    |   About](#home-------about)
+- [Home    |   About | Texts](#home-------about--texts)
 - [一文搞懂C和C++中struct](#一文搞懂c和c中struct)
   - [关于作者：](#关于作者)
   - [1.C中struct](#1c中struct)

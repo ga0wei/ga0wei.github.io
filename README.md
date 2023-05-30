@@ -1,7 +1,7 @@
 ---
 title: 'Home'
 ---
-# [Home](https://ga0wei.github.io/)    |   [About](about)
+# [Home](https://ga0wei.github.io/)    |   [About](about) | [Texts](allTexts)
 
 # Home
 
@@ -9,10 +9,10 @@ title: 'Home'
 
 
 ### content
-- [Home    |   About](#home-------about)
+- [Home    |   About | Texts](#home-------about--texts)
 - [Home](#home)
     - [content](#content)
-- [Text](#text)
+- [Pinned Text](#pinned-text)
   - [subpage1](#subpage1)
   - [subpage1](#subpage1-1)
 - [Info](#info)
@@ -20,7 +20,7 @@ title: 'Home'
 
 
 
-# Text
+# Pinned Text
 
 ## [subpage1](subPages/sub1)
 > something about sub1

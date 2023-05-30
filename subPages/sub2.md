@@ -1,7 +1,7 @@
 ---
 title: '欢迎使用 Gridea'
 ---
-# [Home](https://ga0wei.github.io/)    |   [About](about)
+# [Home](https://ga0wei.github.io/)    |   [About](about) | [Texts](allTexts)
 # 欢迎使用 Gridea
 
 👏  欢迎使用 **Gridea** ！  
