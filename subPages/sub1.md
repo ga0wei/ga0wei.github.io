@@ -1,7 +1,17 @@
-## [Home](https://ga0wei.github.io/)    |   [About](about)
+---
+title: '一文搞懂C和C++中struct'
+---
+# [Home](https://ga0wei.github.io/)    |   [About](about)
+#  一文搞懂C和C++中struct
 
-# 欢迎使用 Gridea
-# 一文搞懂C和C++中struct
+
+- [一文搞懂C和C++中struct](#一文搞懂c和c中struct)
+  - [关于作者：](#关于作者)
+  - [1.C中struct](#1c中struct)
+  - [2.C++中struct](#2c中struct)
+  - [3.总结](#3总结)
+    - [C和C++中的Struct区别](#c和c中的struct区别)
+
 
 
 ## 关于作者：

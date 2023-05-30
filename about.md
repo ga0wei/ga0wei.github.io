@@ -1,5 +1,7 @@
-
-## [Home](https://ga0wei.github.io/)    |   [About](about)
+---
+title: 'About'
+---
+# [Home](https://ga0wei.github.io/)    |   [About](about)
 
 # About
 
