@@ -1,6 +1,4 @@
----
-title: 'Home'
----
+
 # [Home](https://ga0wei.github.io/)    |   [About](about) | [Texts](allTexts)
 
 # Home
@@ -9,6 +7,7 @@ title: 'Home'
 
 
 ### content
+- [Home    |   About | Texts](#home-------about--texts)
 - [Home](#home)
     - [content](#content)
 - [Pinned Text](#pinned-text)
