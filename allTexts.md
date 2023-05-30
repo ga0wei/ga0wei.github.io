@@ -8,7 +8,9 @@ title: 'Texts'
 
 ### content
 
+- [Home    |   About | Texts](#home-------about--texts)
 - [Texts](#texts)
+    - [content](#content)
   - [tag：tag1](#tagtag1)
     - [text1](#text1)
     - [text1](#text1-1)
@@ -21,14 +23,20 @@ title: 'Texts'
 
 
 ## tag：tag1
+
 ### text1
 > text1
+
 ### text1
 > text1
+
 ## tag：tag2
+
 ### text1
 > text1
+
 ### text1
 > text1
+
 ### text1
 > text1
