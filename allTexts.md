@@ -6,8 +6,6 @@ title: 'Texts'
 # Texts
 
 content
-- [Home|About|Texts](#homeabouttexts)
-- [Texts](#texts)
   - [tag：C++](#tagc)
     - [实现进度条](#实现进度条)
     - [树的遍历](#树的遍历)
