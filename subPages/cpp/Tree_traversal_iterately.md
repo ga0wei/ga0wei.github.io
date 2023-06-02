@@ -4,6 +4,15 @@ title: '树的遍历'
 # [Home](https://ga0wei.github.io/) |   [About](about)  |   [Texts](allTexts)
 #  树的遍历
 
+Author：GaoWei   
+
+Data：23 / 06 / 01
+
+Recompose：-- / -- / --
+
+---
+
+
 
 
 ## 前序遍历

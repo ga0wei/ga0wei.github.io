@@ -2,8 +2,20 @@
 title: ' C++ 实现进度条'
 ---
 # [Home](https://ga0wei.github.io/) |   [About](about)  |   [Texts](allTexts)
-
 # C++ 实现进度条
+
+
+Author：GaoWei   
+
+Data：23 / 06 / 01
+
+Recompose：-- / -- / --
+
+---
+
+
+
+
 
 ```c++
 #include <bits/stdc++.h>
