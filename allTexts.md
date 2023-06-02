@@ -8,7 +8,6 @@ title: 'Texts'
 
 ### content
 
-- [Home    |   About | Texts](#home-------about--texts)
 - [Texts](#texts)
     - [content](#content)
   - [tag：tag1](#tagtag1)
