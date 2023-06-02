@@ -1,6 +1,3 @@
----
-title: '树的遍历'
----
 # [Home](https://ga0wei.github.io/) |   [About](about)  |   [Texts](allTexts)
 #  树的遍历
 
