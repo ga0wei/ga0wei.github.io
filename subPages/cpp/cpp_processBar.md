@@ -1,9 +1,7 @@
 ---
 title: ' C++ 实现进度条'
 ---
-# [Home](https://ga0wei.github.io/)|[About](about)|[Texts](allTexts)
-#  一文搞懂C和C++中struct
-
+# [ Home ](https://ga0wei.github.io/)|[ About ](about)|[ Texts ](allTexts)
 
 # C++ 实现进度条
 
