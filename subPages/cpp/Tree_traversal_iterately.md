@@ -1,20 +1,8 @@
 ---
 title: '树的遍历'
 ---
-# [ Home ](https://ga0wei.github.io/)|[ About ](about)|[ Texts ](allTexts)
+# [Home](https://ga0wei.github.io/) |   [About](about)  |   [Texts](allTexts)
 #  树的遍历
-
-content
-- [Home|About|Texts](#homeabouttexts)
-- [树的遍历](#树的遍历)
-  - [前序遍历](#前序遍历)
-    - [递归](#递归)
-    - [迭代](#迭代)
-  - [中序遍历：](#中序遍历)
-    - [递归](#递归-1)
-    - [迭代](#迭代-1)
-
-
 
 
 
@@ -84,5 +72,4 @@ void iterate(TreeNode *root) {
         }
     }
 }
-
 ```

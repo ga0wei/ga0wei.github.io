@@ -1,15 +1,10 @@
 ---
 title: 'Texts'
 ---
-# [ Home ](https://ga0wei.github.io/)|[ About ](about)|[ Texts ](allTexts)
+# [Home](https://ga0wei.github.io/) |   [About](about)  |   [Texts](allTexts)
 
 # Texts
 
-content
-  - [tag：C++](#tagc)
-    - [实现进度条](#实现进度条)
-    - [树的遍历](#树的遍历)
-  - [tag：机器学习](#tag机器学习)
 
 
 ## tag：C++
