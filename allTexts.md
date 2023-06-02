@@ -1,41 +1,24 @@
 ---
 title: 'Texts'
 ---
-# [Home](https://ga0wei.github.io/)    |   [About](about) | [Texts](allTexts)
-
-# Texts
-
-
-### content
-
-- [Texts](#texts)
-    - [content](#content)
-  - [tag：tag1](#tagtag1)
-    - [text1](#text1)
-    - [text1](#text1-1)
-  - [tag：tag2](#tagtag2)
-    - [text1](#text1-2)
-    - [text1](#text1-3)
-    - [text1](#text1-4)
+# [Home](https://ga0wei.github.io/)|[About](about)|[Texts](allTexts)
 
 
 
+content
+  - [tag：C++](#tagc)
+    - [实现进度条](#实现进度条)
+    - [树的遍历](#树的遍历)
+  - [tag：机器学习](#tag机器学习)
 
-## tag：tag1
 
-### text1
-> text1
+## tag：C++
 
-### text1
-> text1
+### 实现进度条
+> c++ 实现控制台进度条
 
-## tag：tag2
+### 树的遍历
+> c++实现树的遍历：前序、中序、后序遍历
 
-### text1
-> text1
-
-### text1
-> text1
-
-### text1
-> text1
+## tag：机器学习
+no content

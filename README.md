@@ -1,5 +1,7 @@
-
-# [Home](https://ga0wei.github.io/)    |   [About](about) | [Texts](allTexts)
+---
+title: 'Home'
+---
+# [Home](https://ga0wei.github.io/)|[About](about)|[Texts](allTexts)
 
 # Home
 
@@ -8,27 +10,14 @@ hello,world, 练习时长还剩两年半。
 
 # Pinned Text
 
-## [subpage1](subPages/sub1)
-> something about sub1
+### 实现进度条
+> c++ 实现控制台进度条
 
-
-## [subpage1](subPages/sub2)
-> something about sub1
-
-
+### 树的遍历
+> c++实现树的遍历：前序、中序、后序遍历
 
 
 
 
-# Info
-## self Intro
-- 👋 Hi, I’m @ga0wei,a mortal people,
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-ga0wei/ga0wei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
