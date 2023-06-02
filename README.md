@@ -1,5 +1,7 @@
 # [Home](https://ga0wei.github.io/)|[About](about)|[Texts](allTexts)
 
+
+
 # Home
 
 hello,world, 练习时长还剩两年半。

@@ -3,9 +3,10 @@ title: 'Texts'
 ---
 # [Home](https://ga0wei.github.io/)|[About](about)|[Texts](allTexts)
 
-
+# Texts
 
 content
+- [Home|About|Texts](#homeabouttexts)
   - [tag：C++](#tagc)
     - [实现进度条](#实现进度条)
     - [树的遍历](#树的遍历)
