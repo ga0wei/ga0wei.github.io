@@ -1,4 +1,4 @@
-# [Home](/README) |   [About](/about)  |   [Texts](/allTexts)
+# [Home](/) |   [About](/about)  |   [Texts](/allTexts)
 # C++ 实现进度条
 
 
