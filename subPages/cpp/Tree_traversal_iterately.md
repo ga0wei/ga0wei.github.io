@@ -1,4 +1,4 @@
-# [Home](/README) |   [About](/about)  |   [Texts](/allTexts)
+# [Home](/) |   [About](/about)  |   [Texts](/allTexts)
 #  树的遍历
 
 Author：GaoWei   
