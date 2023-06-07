@@ -1,4 +1,4 @@
-# [Home](/README.md) |   [About](/about)  |   [Texts](/allTexts)
+# [Home](/README) |   [About](/about)  |   [Texts](/allTexts)
 
 # Texts
 
