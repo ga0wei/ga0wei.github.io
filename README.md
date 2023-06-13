@@ -1,8 +1,14 @@
-# [🏡Home](/) |   [👨‍💻About](/about)  |   [🗂️Texts](/allTexts)
+# [🏡Home](/) |   [👨‍💻About](/about)  |   [🗂️Texts](/allTexts)   |   [💬Web Quotes](/webQuotes)
 
 # 🏡Home
 
 hello,world, 练习时长还剩两年半。
+
+
+
+# 🔝Top
+
+
 
 
 # 📌Pinned Text
