@@ -1,11 +1,11 @@
-# [Home](/) |   [About](/about)  |   [Texts](/allTexts)
-#  树的遍历
+# [🏡Home](/) |   [👨‍💻About](/about)  |   [🗂️Texts](/allTexts)
+#  📖树的遍历
 
-Author：GaoWei   
+✍Author：[GaoWei](/about)  
 
-Data：23 / 06 / 01
+📆Data：23 / 06 / 01
 
-Recompose：-- / -- / --
+📆Modified：-- / -- / --
 
 ---
 

@@ -1,12 +1,12 @@
-# [Home](/) |   [About](/about)  |   [Texts](/allTexts)
-# C++ 实现进度条
+# [🏡Home](/) |   [👨‍💻About](/about)  |   [🗂️Texts](/allTexts)
+# 📖C++ 实现进度条
 
 
-Author：GaoWei   
+✍Author：[GaoWei](/about)  
 
-Data：23 / 06 / 01
+📆Data：23 / 06 / 01
 
-Recompose：-- / -- / --
+📆Modified：-- / -- / --
 
 ---
 
